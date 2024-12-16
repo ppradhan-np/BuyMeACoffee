@@ -1,0 +1,15 @@
+{
+    "require": {
+        "symfony/dotenv": "^7.2",
+        "symfony/mailer": "^7.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "BuyMeACoffeeClone\\Kernel\\": "src/Kernel/"
+        }
+
+    }
+}
+
+
